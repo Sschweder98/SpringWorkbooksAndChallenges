@@ -1,3 +1,5 @@
+package com.ltp.gradesubmission;
+
 import org.junit.internal.Classes;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
